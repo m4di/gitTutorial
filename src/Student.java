@@ -18,7 +18,4 @@ public class Student extends Person {
         return String.format("Name: %s\nMajor: %s\nEmail: %s", this.name, this.major, this.emailAddress);
     }
 
-    public void addCourse(Course c){
-
-    }
 }
