@@ -10,6 +10,6 @@ public class Course {
         this.cname = cname;
         this.description = description;
         this.favCourse = favCourse;
-        
+
     }
 }
